@@ -4,10 +4,8 @@ import java.util.List;
 import java.util.Optional;
 
 import org.kanban.dtos.CreaTareaDTO;
-import org.kanban.dtos.CreaUsuarioDTO;
 import org.kanban.dtos.TareaUsuarioDTO;
 import org.kanban.entities.Tarea;
-import org.kanban.entities.Usuario;
 import org.kanban.repository.TareaRepository;
 import org.kanban.repository.UsuarioRepositiry;
 import org.springframework.beans.factory.annotation.Autowired;
